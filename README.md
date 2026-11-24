@@ -39,5 +39,5 @@ Practical SQL analysis covering joins, aggregations, CTEs, window functions, and
 
 ### 📫 Connect with me
 
-- LinkedIn: [Add your LinkedIn URL]
-- Portfolio: [Add your portfolio URL]
+- LinkedIn: {https://www.linkedin.com/in/amrit-kalash/}
+
