@@ -1,43 +1,39 @@
-# Hi, I'm Amrit Kalash 👋
+# Hi, I'm Amrit 👋
 
-### Decision Analytics | Data Analytics | Business Problem Solving
+### Aspiring Data & Decision Analyst
 
-Engineering graduate from NIT Rourkela with a strong interest in using data, statistics, and analytical thinking to solve business problems and support better decision-making.
+B.Tech + M.Tech Dual Degree in Ceramic Engineering from **NIT Rourkela** (2025).
 
-I enjoy exploring datasets, uncovering patterns, testing hypotheses, building analytical models, and translating findings into actionable business insights.
+I'm interested in using data to understand business problems, identify patterns, and support better decisions. I'm currently strengthening my skills in data analytics, SQL, Python, statistics, and business problem-solving.
 
-### 🛠️ Skills
+### 🎯 Areas of Interest
+- Data & Business Analytics
+- Decision Science
+- SQL-based Data Analysis
+- Statistical Analysis
+- Machine Learning
 
-- **Programming:** Python, SQL
-- **Analytics:** Exploratory Data Analysis, Statistical Analysis, Hypothesis Testing, Segmentation, Predictive Modeling
-- **Visualization:** Power BI, Matplotlib, Seaborn
-- **Tools:** Excel, Git, Jupyter Notebook
-- **Libraries:** Pandas, NumPy, Scikit-learn
+### 🛠️ Tools & Technologies
 
-### 📊 Featured Projects
+- **Languages:** Python, SQL
+- **Data Analysis:** Pandas, NumPy
+- **Visualization:** Matplotlib, Seaborn, Power BI
+- **Tools:** Git, GitHub, Jupyter Notebook, Excel
 
-🔹 **Telecom Revenue & Growth Analysis**  
-Business performance analysis to identify revenue trends, growth opportunities, and actionable recommendations.
+### 📚 Currently Learning
+- Advanced SQL
+- Statistics for Data Analysis
+- Exploratory Data Analysis
+- Business Metrics & Problem Solving
+- Machine Learning Fundamentals
 
-🔹 **Customer Churn & Retention Analysis**  
-Exploratory analysis and predictive modeling to identify churn drivers and develop retention strategies.
-
-🔹 **Marketing Campaign A/B Testing**  
-Statistical experiment analysis to measure campaign effectiveness and support evidence-based business decisions.
-
-🔹 **SQL Business Analysis**  
-Practical SQL analysis covering joins, aggregations, CTEs, window functions, and business metrics.
-
-### 📌 My Analytical Approach
-
-1. Define the business problem
-2. Ask measurable questions
+### 🧩 My Approach to Analytics
+1. Understand the business problem
+2. Define measurable questions
 3. Explore and validate the data
-4. Select the appropriate analytical method
-5. Interpret the results
-6. Communicate actionable recommendations
+4. Perform appropriate analysis
+5. Interpret findings
+6. Communicate insights and recommendations
 
-### 📫 Connect with me
-
-- LinkedIn: {https://www.linkedin.com/in/amrit-kalash/}
-
+### 📫 Connect With Me
+- [LinkedIn](https://www.linkedin.com/in/amrit-kalash/)
